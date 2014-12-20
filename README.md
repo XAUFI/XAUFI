@@ -2,6 +2,11 @@
 ### Custom setup and configurations after [Ubuntu GNOME](http://ubuntugnome.org/) fresh install
 
 ## Install instructions
+- Download repo files
+- At *main.sh* script comment/uncomment rows in order to select packages to install
+- Save changes
+- Execute from console/terminal the *main.sh* script
+··* ./main.sh
 - *Under construction...*
 
 ## OS Version

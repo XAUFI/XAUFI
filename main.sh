@@ -1,7 +1,7 @@
 #!/bin/sh
 echo 'XAUFI: After Ubuntu Fresh Install'
-./system/main-sys.sh
-./utilities/main-utils.sh
+./system/sys-update.sh
+./utilities/utils-flux.sh
 #./development/main-dev.sh
 echo ''
 echo 'Thank you for using XAUFI.'
