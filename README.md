@@ -5,7 +5,7 @@
 - Download repo files
 - At *main.sh* script comment/uncomment rows in order to select packages to install
 - Save changes
-- Execute script from console/terminal: *./main.sh* 
+- Execute script from console/terminal with admin privileges: *sudo ./main.sh*
 - *Under construction...*
 
 ## OS Version
