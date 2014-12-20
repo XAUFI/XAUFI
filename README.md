@@ -12,7 +12,7 @@ The scripts here are based on suggestions from:
 - [Easy Linux tips project](https://sites.google.com/site/easylinuxtipsproject/)
 - [Ubuntu-guia: Cosas que hacer despues de instalar ubuntu](http://www.ubuntu-guia.com/2014/04/despues-de-instalar-ubuntu.html)
 
-## What's XAUFI stands for?
+## What does XAUFI stands for?
 It is the recursive acronym for *XAUFI: After Ubuntu Fresh Install*
 
 ## License
