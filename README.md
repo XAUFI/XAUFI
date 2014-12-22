@@ -11,11 +11,6 @@
 ### Notes
 - Some optimizations recommended but not included here **must** be done manually (e.g., swappiness and other speed tweaks, enabling 'Ctrl+Alt+Backspace')
 
-## TODO:
-### Add script for:
-- httrack
-
-
 ## OS Version
 All scripts have been successfully tested on **Ubuntu GNOME 14.04 LTS 64-bit**
 
