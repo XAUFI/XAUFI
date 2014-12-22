@@ -6,7 +6,14 @@
 - At *main.sh* script comment/uncomment rows in order to select packages to install
 - Save changes
 - Execute script from console/terminal with admin privileges: *sudo ./main.sh*
-- *Under construction...*
+- ***Under construction...***
+
+### Notes
+- Some optimizations **must** be done manually (e.g., swappiness and other speed tweaks, enabling 'Ctrl+Alt+Backspace')
+
+## TODO: Add script for:
+- httrack
+
 
 ## OS Version
 All scripts have been successfully tested on **Ubuntu GNOME 14.04 LTS 64-bit**
