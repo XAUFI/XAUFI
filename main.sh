@@ -17,9 +17,11 @@ echo 'XAUFI: After Ubuntu Fresh Install'
 #./utilities/utils-zip-rar.sh
 #./utilities/utils-flux.sh
 
-#./extras/extras-restricted.sh    ## This needs manual intervention
 #./extras/extras-fitbit.sh
 
+#### These needs manual intervention
+#./extras/extras-restricted.sh
+#./entertainment/fun-popcorn.sh
 
 ./system/sys-clean.sh
 echo ''
