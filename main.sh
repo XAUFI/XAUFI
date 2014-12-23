@@ -7,6 +7,7 @@ echo 'XAUFI: After Ubuntu Fresh Install'
 ./system/sys-firewall.sh
 
 ## Optional
+./extras/extras-fitbit.sh
 
 #./utilities/utils-flux.sh
 #./development/dev-ruby.sh
