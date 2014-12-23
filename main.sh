@@ -6,11 +6,20 @@ echo 'XAUFI: After Ubuntu Fresh Install'
 ./system/sys-optimization.sh
 ./system/sys-firewall.sh
 
-## Optional
-./extras/extras-fitbit.sh
 
-#./utilities/utils-flux.sh
+## Optional
+### Development
+#./development/dev-build-essential.sh
 #./development/dev-ruby.sh
+
+
+### Utilities & extras
+#./utilities/utils-zip-rar.sh
+#./utilities/utils-flux.sh
+
+#./extras/extras-restricted.sh    ## This needs manual intervention
+#./extras/extras-fitbit.sh
+
 
 ./system/sys-clean.sh
 echo ''
