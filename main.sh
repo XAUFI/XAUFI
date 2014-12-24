@@ -6,26 +6,25 @@ echo 'XAUFI: After Ubuntu Fresh Install'
 ./system/sys-optimization.sh
 ./system/sys-firewall.sh
 
-
 ## Optional
 ### Internet
-
+./internet/internet-chrome.sh
 
 ### Development
-#./development/dev-build-essential.sh
-#./development/dev-ruby.sh**
-
+./development/dev-build-essential.sh
+./development/dev-git.sh
+#./development/dev-nodejs.sh
+#./development/dev-ruby.sh
 
 ### Utilities & extras
-#./utilities/utils-zip-rar.sh
-#./utilities/utils-flux.sh
-
+./utilities/utils-zip-rar.sh
+./utilities/utils-flux.sh
 # ##./extras/extras-fitbit.sh
 
 #### These needs manual intervention
-#./extras/extras-restricted.sh
-#./entertainment/fun-popcorn.sh
-# ##./encryption/encryption-veracrypt.sh
+./extras/extras-restricted.sh
+./entertainment/fun-popcorn.sh
+./encryption/encryption-veracrypt.sh
 
 ./system/sys-clean.sh
 echo ''
