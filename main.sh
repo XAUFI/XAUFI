@@ -15,10 +15,14 @@ echo 'XAUFI: After Ubuntu Fresh Install'
 ./development/dev-git.sh
 #./development/dev-nodejs.sh
 #./development/dev-ruby.sh
+# ##./development/dev-python.sh
 
 ### Utilities & extras
 ./utilities/utils-zip-rar.sh
+./utilities/utils-vim.sh
 ./utilities/utils-flux.sh
+./extras/extras-menulibre.sh
+./extras/extras-htop.sh
 # ##./extras/extras-fitbit.sh
 
 #### These needs manual intervention
