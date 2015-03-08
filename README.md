@@ -19,7 +19,7 @@ The scripts from this repo are based on suggestions from:
 - [Easy Linux tips project](https://sites.google.com/site/easylinuxtipsproject/)
 - [Ubuntu-guia: Cosas que hacer despues de instalar ubuntu](http://www.ubuntu-guia.com/2014/04/despues-de-instalar-ubuntu.html)
 - [Install Up-to-date Scientific Environment in Ubuntu 14.04 With Python 3.4](http://bikulov.org/blog/2014/05/14/install-up-to-date-scientific-environment-in-ubuntu-14-dot-04-with-python-3-dot-4/)
-- Many other websites and blog posts linked via closed issues
+- Many other websites and blog posts linked via [closed issues](https://github.com/dbautistav/XAUFI/issues?q=is:issue+is:closed)
 
 ## What does XAUFI stands for?
 It is the recursive acronym for *XAUFI: After Ubuntu Fresh Install*
