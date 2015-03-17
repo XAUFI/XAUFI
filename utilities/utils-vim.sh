@@ -1,4 +1,4 @@
 #!/bin/sh
 echo ' > Utilities :: Vim'
-apt-get -y install vim
+sudo apt-get install -y vim
 echo '   [vim-utils]     ...done!'

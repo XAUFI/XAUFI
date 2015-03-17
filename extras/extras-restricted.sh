@@ -1,5 +1,5 @@
 #!/bin/sh
 echo ' > Extras :: Restricted'
-apt-get -y install ubuntu-restricted-extras
-apt-get -y install libavcodec-extra
+sudo apt-get install -y ubuntu-restricted-extras
+sudo apt-get install -y libavcodec-extra
 echo '   [restricted-extras]     ...done!'

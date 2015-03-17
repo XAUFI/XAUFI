@@ -7,20 +7,23 @@ echo 'XAUFI: After Ubuntu Fresh Install'
 ./system/sys-firewall.sh
 
 ## Optional
-### Internet
-./internet/internet-chrome.sh
-
 ### Development
 ./development/dev-build-essential.sh
 ./development/dev-git.sh
-#./development/dev-nodejs.sh
-#./development/dev-ruby.sh
+./development/dev-tools.sh
+./development/dev-nodejs.sh
+#./development/dev-iojs.sh
+./development/dev-ruby.sh
+./development/dev-rails.sh
 # ##./development/dev-python.sh
+
+### Internet
+./internet/internet-chrome.sh
 
 ### Utilities & extras
 ./utilities/utils-zip-rar.sh
 ./utilities/utils-vim.sh
-./utilities/utils-flux.sh
+#./utilities/utils-flux.sh
 ./extras/extras-menulibre.sh
 ./extras/extras-htop.sh
 # ##./extras/extras-fitbit.sh

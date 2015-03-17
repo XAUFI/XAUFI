@@ -1,5 +1,5 @@
 #!/bin/sh
 echo ' > System :: Firewall'
-ufw enable
+sudo ufw enable
 echo '   [firewall-sys]     ...done!'
 

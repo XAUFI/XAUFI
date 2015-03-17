@@ -1,4 +1,4 @@
 #!/bin/sh
 echo ' > Development :: Build essential'
-apt-get -y install build-essential
+sudo apt-get install -y build-essential
 echo '   [build-essential-dev]     ...done!'

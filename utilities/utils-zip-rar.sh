@@ -1,4 +1,4 @@
 #!/bin/sh
 echo ' > Utilities :: Zip & Rar'
-apt-get -y install p7zip-full p7zip-rar rar unrar
+sudo apt-get install -y p7zip-full p7zip-rar rar unrar
 echo '   [zip-rar-utils]     ...done!'

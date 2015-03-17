@@ -1,4 +1,4 @@
 #!/bin/sh
 echo ' > Extras :: MenuLibre'
-apt-get -y install menulibre
+sudo apt-get install -y menulibre
 echo '   [menulibre-extras]     ...done!'

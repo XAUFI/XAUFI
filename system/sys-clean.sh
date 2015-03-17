@@ -1,5 +1,7 @@
 #!/bin/sh
 echo ' > System :: Clean'
-apt-get autoremove
-echo '   [clean-sys]     ...done!'
+sudo apt-get autoremove -y
 
+## Restart system:
+#sudo shutdown -r 0
+echo '   [clean-sys]     ...done!'

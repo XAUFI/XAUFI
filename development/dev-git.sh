@@ -1,4 +1,5 @@
 #!/bin/sh
 echo ' > Development :: Git'
-apt-get -y install git
+sudo apt-get install -y git
+git config --global color.ui true
 echo '   [git-dev]     ...done!'

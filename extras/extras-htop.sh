@@ -1,4 +1,4 @@
 #!/bin/sh
 echo ' > Extras :: htop'
-apt-get -y install htop
+sudo apt-get install -y htop
 echo '   [htop-extras]     ...done!'
