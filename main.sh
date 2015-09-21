@@ -31,7 +31,7 @@ echo 'XAUFI: After Ubuntu Fresh Install'
 
 #### These needs manual intervention
 ./extras/extras-restricted.sh
-./entertainment/fun-popcorn.sh
+#./entertainment/fun-popcorn.sh
 ./encryption/encryption-veracrypt.sh
 
 ./system/sys-clean.sh
