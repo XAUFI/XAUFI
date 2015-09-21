@@ -17,6 +17,9 @@ echo 'export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"' >> ~/.zshrc
 source ~/.zshrc
 #exec $SHELL
 
+sudo chown $USER .bashrc
+sudo chown $USER .zshrc
+
 git clone https://github.com/sstephenson/rbenv-gem-rehash.git ~/.rbenv/plugins/rbenv-gem-rehash
 
 rbenv install 2.2.3
