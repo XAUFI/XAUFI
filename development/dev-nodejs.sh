@@ -6,6 +6,6 @@ nvm install stable
 nvm use stable
 nvm ls
 
-echo 'source ~/.nvm/nvm.sh' >> ~/.bashrc
-echo 'source ~/.nvm/nvm.sh' >> ~/.zshrc
+echo '. ~/.nvm/nvm.sh' >> ~/.bashrc
+echo '. ~/.nvm/nvm.sh' >> ~/.zshrc
 echo '   [nodejs-dev]     ...done!'
