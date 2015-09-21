@@ -22,10 +22,11 @@ echo 'XAUFI: After Ubuntu Fresh Install'
 
 ### Utilities & extras
 ./utilities/utils-zip-rar.sh
-./utilities/utils-vim.sh
+#./utilities/utils-vim.sh
 #./utilities/utils-flux.sh
 ./extras/extras-menulibre.sh
 ./extras/extras-htop.sh
+./extras/extras-transparent-terminal.sh
 # ##./extras/extras-fitbit.sh
 
 #### These needs manual intervention
