@@ -5,7 +5,7 @@
 ***(Under construction...)***
 - Download repo files (zip).
 - At *main.sh* script comment/uncomment rows in order to select packages to install and save changes.
-- Execute script from console/terminal with admin privileges: *sudo ./main.sh*
+- Execute script from console/terminal (without admin privileges): *./main.sh*
 - Enjoy!
 
 ### Notes
