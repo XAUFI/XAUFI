@@ -14,11 +14,11 @@ echo 'XAUFI: After Ubuntu Fresh Install'
 ./development/dev-nodejs.sh
 #./development/dev-iojs.sh
 ./development/dev-ruby.sh
-./development/dev-rails.sh
+#./development/dev-rails.sh
 # ##./development/dev-python.sh
 
 ### Internet
-./internet/internet-chrome.sh
+#./internet/internet-chrome.sh
 
 ### Utilities & extras
 ./utilities/utils-zip-rar.sh
@@ -26,12 +26,10 @@ echo 'XAUFI: After Ubuntu Fresh Install'
 #./utilities/utils-flux.sh
 ./extras/extras-menulibre.sh
 ./extras/extras-htop.sh
-./extras/extras-transparent-terminal.sh
-# ##./extras/extras-fitbit.sh
+#./extras/extras-transparent-terminal.sh
 
 #### These needs manual intervention
 ./extras/extras-restricted.sh
-#./entertainment/fun-popcorn.sh
 ./encryption/encryption-veracrypt.sh
 
 ./system/sys-clean.sh
