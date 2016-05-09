@@ -14,8 +14,8 @@
 - Some optimizations recommended but not included here **must** be done manually (e.g., swappiness and other speed tweaks, enabling 'Ctrl+Alt+Backspace') (See [Credits](#credits) section)
 
 ## OS Version
-- [Go to **Ubuntu GNOME 14.04.x LTS 64-bit** scripts](https://github.com/dbautistav/XAUFI/tree/gnome-14.04.x-lts-64bit)
-- [Go to **Ubuntu GNOME 16.04.x LTS 64-bit** scripts](https://github.com/dbautistav/XAUFI/tree/gnome-16.04.x-lts-64bit)
+- [Go to **Ubuntu GNOME 14.04.x LTS 64-bit** scripts.](https://github.com/dbautistav/XAUFI/tree/gnome-14.04.x-lts-64bit)
+- [Go to **Ubuntu GNOME 16.04.x LTS 64-bit** scripts.](https://github.com/dbautistav/XAUFI/tree/gnome-16.04.x-lts-64bit)
 
 ## Credits
 The scripts from this repo are based on suggestions from:
@@ -29,5 +29,5 @@ The scripts from this repo are based on suggestions from:
 It is the recursive acronym for *XAUFI: After Ubuntu Fresh Install*
 
 ## License
-This project is [Free Software](https://raw.githubusercontent.com/dbautistav/XAUFI/sources/LICENSE).
+This project is [Free Software](https://raw.githubusercontent.com/dbautistav/XAUFI/master/LICENSE).
 
