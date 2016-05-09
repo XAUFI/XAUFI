@@ -3,10 +3,10 @@
 
 ## Install instructions
 ***(Under construction...)***
-- Download repo files (zip) OR `git clone https://github.com/dbautistav/XAUFI.git`.
+- Download repo files (zip) OR `git clone https://github.com/dbautistav/XAUFI.git`
 - Check the scripts in order to decide which are useful for you.
-- At *main.sh* script comment/uncomment rows to select packages to install and save changes.
-- Execute script from console/terminal (without admin privileges): *./main.sh*
+- At `main.sh` script comment/uncomment rows to select packages to install and save changes.
+- Execute script from console/terminal (without admin privileges): `./main.sh`
 - Enter your super user password when required.
 - Enjoy!
 
@@ -14,8 +14,8 @@
 - Some optimizations recommended but not included here **must** be done manually (e.g., swappiness and other speed tweaks, enabling 'Ctrl+Alt+Backspace') (See [Credits](#credits) section)
 
 ## OS Version
-- [**Ubuntu GNOME 14.04.x LTS 64-bit**](https://github.com/dbautistav/XAUFI/tree/gnome-14.04.x-lts-64bit)
-- [**Ubuntu GNOME 16.04.x LTS 64-bit**](https://github.com/dbautistav/XAUFI/tree/gnome-16.04.x-lts-64bit)
+- [Go to **Ubuntu GNOME 14.04.x LTS 64-bit** scripts](https://github.com/dbautistav/XAUFI/tree/gnome-14.04.x-lts-64bit)
+- [Go to **Ubuntu GNOME 16.04.x LTS 64-bit** scripts](https://github.com/dbautistav/XAUFI/tree/gnome-16.04.x-lts-64bit)
 
 ## Credits
 The scripts from this repo are based on suggestions from:
