@@ -5,23 +5,19 @@ git clone git://github.com/sstephenson/rbenv.git ~/.rbenv
 
 echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
 echo 'eval "$(rbenv init -)"' >> ~/.bashrc
-. ~/.bashrc
-#exec $SHELL
+exec $SHELL
 
 echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.zshrc
 echo 'eval "$(rbenv init -)"' >> ~/.zshrc
-. ~/.zshrc
-#exec $SHELL
+exec $SHELL
 
 git clone git://github.com/sstephenson/ruby-build.git ~/.rbenv/plugins/ruby-build
 
 echo 'export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"' >> ~/.bashrc
-. ~/.bashrc
-#exec $SHELL
+exec $SHELL
 
 echo 'export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"' >> ~/.zshrc
-. ~/.zshrc
-#exec $SHELL
+exec $SHELL
 
 sudo chown $USER .bashrc
 sudo chown $USER .zshrc
