@@ -25,7 +25,7 @@ echo 'XAUFI: After Ubuntu Fresh Install'
 #### These need manual intervention
 #./development/dev-jdk7.sh
 #./encryption/encryption-veracrypt.sh
-./extras/extras-restricted.sh
+#./extras/extras-restricted.sh
 
 ./system/sys-clean.sh
 echo ''
