@@ -11,6 +11,7 @@ echo 'XAUFI: After Ubuntu Fresh Install'
 ./development/dev-build-essential.sh
 ./development/dev-git.sh
 ./development/dev-tools.sh
+#./development/dev-ohmyzsh-agnoster-theme.sh
 #./development/dev-nodejs.sh
 #./development/dev-ruby.sh
 #./development/dev-docker.sh

@@ -1,5 +1,5 @@
 #!/bin/sh
-echo ' > Development :: Zsh // OhMyZsh // base16 // Z'
+echo ' > Development :: Git // Zsh // OhMyZsh'
 ## zsh
 sudo apt-get install -y zsh
 sudo apt-get install -y git-core
@@ -8,4 +8,8 @@ sudo apt-get install -y git-core
 wget https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O - | zsh
 chsh -s `which zsh`
 
-echo '   [git-tools]     ...done!'
+## Check:
+##  https://github.com/robbyrussell/oh-my-zsh/wiki/themes#agnoster
+## if you want to use "agnoster" theme for oh-my-zsh
+## Also check: './dev-ohmyzsh-agnoster-theme.sh' script.
+echo '   [git/zsh/oh-my-zsh-tools]     ...done!'
