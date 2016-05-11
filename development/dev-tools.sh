@@ -1,5 +1,5 @@
 #!/bin/sh
-echo ' > Development :: Git // Zsh // OhMyZsh'
+echo ' > Development :: Zsh // OhMyZsh'
 ## zsh
 sudo apt-get install -y zsh
 sudo apt-get install -y git-core
@@ -12,4 +12,4 @@ chsh -s `which zsh`
 ##  https://github.com/robbyrussell/oh-my-zsh/wiki/themes#agnoster
 ## if you want to use "agnoster" theme for oh-my-zsh
 ## Also check: './dev-ohmyzsh-agnoster-theme.sh' script.
-echo '   [git/zsh/oh-my-zsh-tools]     ...done!'
+echo '   [zsh/oh-my-zsh-tools]     ...done!'
