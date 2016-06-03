@@ -19,13 +19,13 @@ exec $SHELL
 echo 'export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"' >> ~/.zshrc
 exec $SHELL
 
-sudo chown $USER .bashrc
-sudo chown $USER .zshrc
+sudo chown $USER ~/.bashrc
+sudo chown $USER ~/.zshrc
 
 git clone https://github.com/sstephenson/rbenv-gem-rehash.git ~/.rbenv/plugins/rbenv-gem-rehash
 
-rbenv install 2.3.0
-rbenv global 2.3.0
+rbenv install 2.3.1
+rbenv global 2.3.1
 ruby -v
 
 echo "gem: --no-ri --no-rdoc" > ~/.gemrc
