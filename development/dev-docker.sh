@@ -19,4 +19,3 @@ sudo usermod -aG docker $USER
 
 sudo docker version
 echo '   [docker-dev]     ...done!'
-
