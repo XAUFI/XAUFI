@@ -10,7 +10,7 @@ sudo apt-get install -y git-core
     ## Also check: './dev-ohmyzsh-agnoster-theme.sh' script.
 #sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 wget https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O - | zsh
-chsh -s `which zsh`
+sudo chsh -s `which zsh`
 
 ## tmux
 sudo apt-get install -y tmux
