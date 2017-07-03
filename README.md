@@ -16,6 +16,46 @@
 ## OS Version
 All scripts have been successfully tested on **Ubuntu GNOME 16.04.x LTS 64-bit**
 
+## Contents
+(Generated with `tree .`)
+```
+.
+├── development
+│   ├── dev-build-essential.sh
+│   ├── dev-docker.sh
+│   ├── dev-git.sh
+│   ├── dev-jdk7.sh
+│   ├── dev-nodejs.sh
+│   ├── dev-ohmyzsh-agnoster-theme.sh
+│   ├── dev-ruby.sh
+│   ├── dev-tools.sh
+│   └── tmux.conf
+├── encryption
+│   └── encryption-veracrypt.sh
+├── extras
+│   ├── extras-htop.sh
+│   ├── extras-menulibre.sh
+│   ├── extras-numix.sh
+│   └── extras-restricted.sh
+├── hardware
+│   ├── hw-ssd.sh
+│   └── hw-wifi-antenna.sh
+├── internet
+│   └── internet-chrome.sh
+├── system
+│   ├── sys-clean.sh
+│   ├── sys-firewall.sh
+│   ├── sys-management-tools.sh
+│   ├── sys-optimization.sh
+│   └── sys-update.sh
+└── utilities
+    ├── utils-flux.sh
+    ├── utils-vim.sh
+    └── utils-zip-rar.sh
+
+```
+
+
 ## Credits
 The scripts from this repo are based on suggestions from:
 - [Easy Linux tips project](https://sites.google.com/site/easylinuxtipsproject/)
