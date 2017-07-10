@@ -16,6 +16,45 @@
 ## OS Version
 All scripts have been successfully tested on **Ubuntu GNOME 14.04.x LTS 64-bit**
 
+## Contents
+
+```
+.
+├── development
+│   ├── dev-build-essential.sh
+│   ├── dev-git.sh
+│   ├── dev-iojs.sh
+│   ├── dev-nodejs.sh
+│   ├── dev-python.sh
+│   ├── dev-rails.sh
+│   ├── dev-ruby.sh
+│   └── dev-tools.sh
+├── encryption
+│   └── encryption-veracrypt.sh
+├── extras
+│   ├── extras-fitbit.sh
+│   ├── extras-htop.sh
+│   ├── extras-menulibre.sh
+│   ├── extras-restricted.sh
+│   └── extras-transparent-terminal.sh
+├── hardware
+│   ├── hw-ssd.sh
+│   └── hw-wifi-antenna.sh
+├── internet
+│   └── internet-chrome.sh
+├── system
+│   ├── sys-clean.sh
+│   ├── sys-firewall.sh
+│   ├── sys-management-tools.sh
+│   ├── sys-optimization.sh
+│   └── sys-update.sh
+└── utilities
+    ├── utils-flux.sh
+    ├── utils-vim.sh
+    └── utils-zip-rar.sh
+
+```
+
 ## Credits
 The scripts from this repo are based on suggestions from:
 - [Easy Linux tips project](https://sites.google.com/site/easylinuxtipsproject/)
